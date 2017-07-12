@@ -1,6 +1,8 @@
 # Groups Plugin for CraftBeerPi 3.0
 With this plugin you can create both Actor Groups and Sensor Groups.  When you group actors together, a single group will turn on, turn off, or set power on all actors at the same time.  When you group sensors together, a single group will show the average of the sensors within that group.  You can even create groups where the members of that group are *other* groups.
 
+:warning:***IMPORTANT:*** Please make sure you update CraftBeerPi 3.0 to the latest version available before installing this plugin. It requires a feature that was introduced on July 8, 2017.
+
 ## Video
 ![groups_actordemo](https://user-images.githubusercontent.com/29404417/28087816-cbbab528-6651-11e7-9153-768c13ab438c.gif)
 
